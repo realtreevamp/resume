@@ -36,7 +36,7 @@
 - Тест-дизайн
 - Чек-листы и тест-кейсы
 - Базовое понимание CI/CD
-- Linux (Не сильно шарю но имеется опыт работы с дебиан линуксом)
+- Debian Linux
 - Docker
 - AI `(Codex, Google AI, Gemini, Claude AI)`
 
