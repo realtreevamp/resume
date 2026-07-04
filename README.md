@@ -52,7 +52,7 @@
 
 ## Проекты
 
-### FakeDuolingo-RV-Unstable
+### [FakeDuolingo-RV-Unstable](https://github.com/realtreevamp/FakeDuolingo-RV-Unstable)
 
 **Роль:** Team-Lead, `realtreevamp`  
 **Стек:** JavaScript, frontend, backend, Docker, Debian
