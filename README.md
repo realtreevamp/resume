@@ -54,7 +54,7 @@
 
 ### FakeDuolingo-RV-Unstable
 
-**Роль:** участник проекта, `realtreevamp`  
+**Роль:** Team-Lead, `realtreevamp`  
 **Стек:** JavaScript, frontend, backend, Docker, Debian
 
 - Участвовал в разработке итогового колледжского проекта
